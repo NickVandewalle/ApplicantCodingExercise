@@ -1,0 +1,7 @@
+\\kronos\data\HOME\nivw\my documents\visual studio 2017\Projects\Poker\Poker\bin\Debug\Poker.exe.config
+\\kronos\data\HOME\nivw\my documents\visual studio 2017\Projects\Poker\Poker\bin\Debug\Poker.exe
+\\kronos\data\HOME\nivw\my documents\visual studio 2017\Projects\Poker\Poker\bin\Debug\Poker.pdb
+\\kronos\data\HOME\nivw\my documents\visual studio 2017\Projects\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+\\kronos\data\HOME\nivw\my documents\visual studio 2017\Projects\Poker\Poker\obj\Debug\Poker.csproj.CoreCompileInputs.cache
+\\kronos\data\HOME\nivw\my documents\visual studio 2017\Projects\Poker\Poker\obj\Debug\Poker.exe
+\\kronos\data\HOME\nivw\my documents\visual studio 2017\Projects\Poker\Poker\obj\Debug\Poker.pdb
